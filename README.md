@@ -1,4 +1,4 @@
-# MyToken
+# Auction
 
 This Solidity program is a simple Contract program that simulates an auction and demonstrates functions and error handling of the Solidity programming language. The purpose of this program is to serve as a starting point for people like me who are new to Solidity and wants to try functions and error handling using require, assert, and revert.
 
